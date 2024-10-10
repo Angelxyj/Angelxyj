@@ -59,7 +59,7 @@ Welcome, You are the ![Visitor Count](https://profile-counter.glitch.me/Angelxyj
 
 ## 🌱 Languages 和 Tools:
 
-![projects](https://skillicons.dev/icons?i=html,css,javascript,ts,vue,react,angular,nuxt,next,nodejs,express,nestjs,webpack,vite,python,mongodb,mysql,redis,docker,git,github,gitlab,linux,bash,java,spring,flutter,cs,c,cpp,nginx,rust,go,npm,pnpm,yarn,vscode,sass,less,sentry,jenkins,jquery)
+![projects](https://skillicons.dev/icons?i=html,css,javascript,ts,vue,react,angular,nuxt,next,nodejs,express,nestjs,webpack,vite,python,mongodb,mysql,redis,docker,git,github,gitlab,linux,bash,java,spring,flutter,cs,c,cpp,nginx,rust,go,npm,pnpm,yarn,vscode,sass,less,sentry,jenkins,jquery,gulp,pinia,redux)
 
 ### Mostly used code languages
 
